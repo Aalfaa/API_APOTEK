@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nama": "Paracetamol", "harga": 5000, "stok": 100, "deskripsi": "Obat penurun demam dan pereda nyeri" },
+  { "id": 2, "nama": "Amoxicillin", "harga": 12000, "stok": 50, "deskripsi": "Antibiotik untuk infeksi bakteri" },
+  { "id": 3, "nama": "Vitamin C", "harga": 8000, "stok": 150, "deskripsi": "Suplemen untuk menjaga daya tahan tubuh" }
+]
